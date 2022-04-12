@@ -7,21 +7,20 @@
    
 
 
-- 🔭 I’m currently working remotely.
-- 🌱 Currently on a journey into fullStack software development.
-- 🌱 I’m learning to be better at both Software Engineering daily.
-- 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
-- 
+🔭 I’m currently working remotely.
+🌱 Currently on a journey into fullStack software development.
+🌱 I’m learning to be better at Software Engineering daily.
+👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth. 
 
 
-- 💬 Ask me about:
-- 🌱	**HTML/CSS**.
-- 🌱	**JavaScript** (React JS, Express JS/Node JS, and JQuery).
-- 🌱	**NoSQL** (MongoDB).
-- 🌱	**Music**.
-- 🌱	**Git**.
+💬 Ask me about:
+🌱 **HTML/CSS**.
+🌱 **JavaScript** (React JS, Express JS/Node JS, and JQuery).
+🌱 **NoSQL MongoDB**.
+🌱 **Music**.
+🌱 **Git**.
 
-- ⚡ Fun fact: I love music🎼, driving🚕, travelling✈, and of course <>coding</>💻.
+⚡ Fun fact: I love music🎼, driving🚕, travelling✈, and of course <>coding</>💻.
 
 
 
