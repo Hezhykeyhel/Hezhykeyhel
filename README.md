@@ -1,6 +1,6 @@
-- Hi there, I am Egbetayo Damilola 👋
-- I4G Hackathon Winner, 2021 sponsored by ingressive4good.
-- Welcome to my GitHub page
+<h1>Hi there, I am Egbetayo Damilola 👋</h1>
+<h3>I4G Hackathon Winner, 2021 sponsored by ingressive4good.</h3>
+<h3>Welcome to my GitHub page</h3>
 
 <p>🔭 I’m currently working on myself</p>
 <p>🌱 I’m currently learning React, React-Native</p>
