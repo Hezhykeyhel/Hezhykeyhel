@@ -1,5 +1,5 @@
-Hi there, I am Egbetayo Damilola 👋
-I4G Hackathon Winner, 2021 sponsored by ingressive4good.
+Hi there, I am Egbetayo Damilola 👋"‑"
+I4G Hackathon Winner, 2021 sponsored by ingressive4good."‑"
 Welcome to my GitHub page
 
 🔭 I’m currently working on myself
