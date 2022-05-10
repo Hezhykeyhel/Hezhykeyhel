@@ -1,4 +1,5 @@
 <h1>Hi there, I am Egbetayo Damilola 👋</h1>
+<h2>A Frontend Software Engineer</h2>
 <h3>I4G Hackathon Winner, 2021 sponsored by ingressive4good.</h3>
 <h3>Welcome to my GitHub page</h3>
 
