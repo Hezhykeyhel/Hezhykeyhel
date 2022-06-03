@@ -7,7 +7,7 @@
 </a>
 <h1 align="left"> Github Statistic: </h1>
 <p align="center">
-  <a href="https://github.com/hezhykeyhel">
+  <a href="https://github.com/Hezhykeyhel">
         <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?     username=hezhykeyhel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezhykeyhel&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=hezhykeyhel&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
