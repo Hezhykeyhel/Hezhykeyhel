@@ -2,7 +2,9 @@
 <h2>A Frontend Software Engineer</h2>
 <h3>I4G Hackathon Winner, 2021 sponsored by ingressive4good.</h3>
 <h3>Welcome to my GitHub page</h3>
-
+<a href="https://github.com/Hezhykeyhel/" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=Hezhykeyhel&label=Profile%20views&color=000000&style=flat-square" alt="Hezhykeyhel"/>
+</a>
 <p>🔭 I’m currently working on myself</p>
 <p>🌱 I’m currently learning React, React-Native, TypeScript</p>
 <p>👯 I’m looking to collaborate on projects that would help me become a better developer.</p>
