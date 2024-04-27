@@ -1,7 +1,7 @@
 <h1>Hi there, I am Egbetayo Damilola 👋</h1>
-<h2>Senior Frontend Software Engineer</h2>
+<h2>Web and Mobile Frontend Software Engineer</h2>
 <h3>I4G Hackathon Winner, 2021 sponsored by ingressive4good.</h3>
-<h3>Welcome to my GitHub page</h3>
+<!-- <h3>Welcome to my GitHub page</h3>
 <a href="https://github.com/Hezhykeyhel/" target="_blank">
 <img src="https://komarev.com/ghpvc/?username=Hezhykeyhel&label=Profile%20views&color=000000&style=flat-square" alt="Hezhykeyhel"/>
 </a>
@@ -13,8 +13,8 @@
 <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=hezhykeyhel&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
 <!--     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=hezhykeyhel&theme=onestar&column=4&margin-w=10&margin-h=10"/>
     <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=hezhykeyhel&theme=react-dark&bg_color=000000&color=FFFFFF"/> -->
-  </a>
-</p>
+<!--   </a> -->
+<!-- </p> --> -->
 <p>🔭 I’m currently working on myself</p>
 <p>💬 Ask me about React, ReactNative, Mongodb, Express Js, HTML5, CSS3, javaScript, BootStrap, SCSS, Styled_Components and so on.<p/>
 <p>📫 How to reach me: twitter - @hezhykeyhel</p>
