@@ -4,8 +4,8 @@ Software Engineer | Web and Mobile Development
 
 ### Major Strengths 💪
 
-- <b>Frontend</b> - React, Next.js
-- <b>Mobile</b> - React Native (Expo) | React Native (CLI)
+- <b>Web Frontend</b> - React, Next.js
+- <b>Mobile Frontend</b> - React Native (Expo) | React Native (CLI)
 - <b>Design</b> - Product Design
   
 ### Looking for me! 📫
@@ -24,7 +24,6 @@ Software Engineer | Web and Mobile Development
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
 #### Work 💼
