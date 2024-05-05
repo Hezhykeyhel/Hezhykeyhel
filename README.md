@@ -26,11 +26,6 @@ Software Engineer | Web and Mobile Development
 ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
 
-#### Work 💼
-
-[![Website Badge](https://img.shields.io/badge/Portfolio_Website-232C2E?style=for-the-badge&logo=atandt&logoColor=white
-)](https://egbetayo.netlify.app)
-
 #### Profile Visits 🕵️‍♂️
 
 ![visitors](https://komarev.com/ghpvc/?username=hezhykeyhel&style=for-the-badge)
@@ -38,4 +33,5 @@ Software Engineer | Web and Mobile Development
 #### Github Stats 📈
 
 <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezhykeyhel&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+<img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=hezhykeyhel&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
 
