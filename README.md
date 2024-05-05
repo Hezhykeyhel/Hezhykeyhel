@@ -37,4 +37,5 @@ Software Engineer | Web and Mobile Development
 
 #### Github Stats 📈
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hezhykeyhel&count_private=true&theme=dark)
+<img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezhykeyhel&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+
