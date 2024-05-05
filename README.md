@@ -1,20 +1,47 @@
-<h1>Hi there, I am Egbetayo Damilola 👋</h1>
-<h2>Web and Mobile Software Engineer</h2>
-<h3>I4G Hackathon Winner, 2021 sponsored by ingressive4good.</h3>
-<h3>Welcome to my GitHub page</h3>
-<!-- <a href="https://github.com/Hezhykeyhel/" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=Hezhykeyhel&label=Profile%20views&color=000000&style=flat-square" alt="Hezhykeyhel"/>
-</a> -->
-<h1 align="left"> Github Statistic: </h1>
-<p align="center">
-  <a href="https://github.com/Hezhykeyhel">
-<!--     <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hezhykeyhel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/> -->
-    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezhykeyhel&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-<img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=hezhykeyhel&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-<!--     <img width="44%" src="https://github-profile-trophy.vercel.app/?username=hezhykeyhel&theme=onestar&column=4&margin-w=10&margin-h=10"/>
-    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=hezhykeyhel&theme=react-dark&bg_color=000000&color=FFFFFF"/> -->
-  </a>
-</p>
-<p>🔭 I’m currently working on myself</p>
-<p>💬 Ask me about React, ReactNative, Mongodb, Express Js, HTML5, CSS3, javaScript, BootStrap, SCSS, Styled_Components and so on.<p/>
-<p>📫 How to reach me: twitter - @hezhykeyhel</p>
+<h1 align="center">Hi 👋, I'm Hezhykeyhel</h1>
+
+Software Engineer | Web and Mobile Development
+
+### Major Strengths 💪
+
+- <b>Frontend</b> - React, Next.js
+- <b>Mobile</b> - React Native (Expo) | React Native (CLI)
+- <b>Design</b> - Product Design
+  
+### Looking for me! 📫
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+)](https://twitter.com/hezhykeyhel)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](https://www.instagram.com/hezhykeyhel/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/hezhykeyhel/)
+
+#### Technologies and Stack ⚡️
+
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![REST Badge](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+#### Work 💼
+
+[![Website Badge](https://img.shields.io/badge/Portfolio_Website-232C2E?style=for-the-badge&logo=atandt&logoColor=white
+)](https://egbetayo.netlify.app)
+
+#### Profile Visits 🕵️‍♂️
+
+![visitors](https://komarev.com/ghpvc/?username=hezhykeyhel&style=for-the-badge)
+
+#### Github Stats 📈
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=hezhykeyhel&count_private=true&theme=dark)
