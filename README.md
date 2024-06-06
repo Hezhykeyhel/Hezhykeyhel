@@ -19,11 +19,3 @@
 ![Next Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-
-<h4>Github Stats 📈 </h4>
-
- <a href="https://github.com/Hezhykeyhel">
-    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hezhykeyhel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
-    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezhykeyhel&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
-    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=hezhykeyhel&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-  </a>
