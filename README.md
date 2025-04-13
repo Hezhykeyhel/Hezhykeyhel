@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Hezhykeyhel</h1>
 
-<h4>Software Engineer | Web and Mobile Development | Backend </h4>
+<h4>Software Engineer | Web and Mobile Development | Backend Development </h4>
   
 <h4>Looking for me! 📫 </h4>
 
